@@ -1,0 +1,9 @@
+.imgdiv{
+    margin: auto;
+    height :fit-content;
+}
+
+.div{
+    position: relative;
+    padding: 40px;
+}
